@@ -128,7 +128,6 @@ int main (void)
 	float percent_neut = (float)neutral_polar_counter * 100 / total;
 	float percent_hydr = (float)hydphobic_counter * 100 / total;
 
-	printf("\n");
 	printf("Percantage of positively charged amino acid residues is %.2f\n", percent_pc);
 	printf("Percantage of negatively charged amino acid residues is %.2f\n", percent_nc);
 	printf("Percantage of aromatic amino acid residues is %.2f\n", percent_arom);
@@ -140,7 +139,7 @@ int main (void)
 	float percent_pur = (float)purine_counter * 100 / total_nuc;
 	float percent_pyr = (float)pyrimidine_counter * 100 / total_nuc;
 
-	printf("\n");
+	printf("\n\n");
 	printf("total nucleotides in rna chain is %d\n", total_nuc);
 	printf("\n");
 	printf("Percentage of purine bases is %.2f\n", percent_pur);
