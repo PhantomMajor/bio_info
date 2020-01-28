@@ -1,0 +1,33 @@
+ALGORITHMIC STEPS
+
+1. Include headers and open 1asy.pdb in read mode.
+2. Declare necessary variables.
+3. Start loop (one line at a time from 2asy.pdb into a string)
+	{
+		if current line matches "ATOM":
+		{
+			if char is A:
+			{then put in array_protein}
+
+			if char is R:
+			{then put in array_rna}
+		} end if
+	} end loop
+
+4. Start outer loop in RNA array:
+	{
+		start inner loop in protein array:
+		{
+			if distance <= 4.5:
+			{store in array_interacting}
+		} end inner loop
+	} end outer loop
+
+5. Print to o/p file (pdb in write mode)
+	start loop on array_interacting:
+	{
+		print in g in find
+	} end of loop
+END OF PROGRAM
+
+6. Clear all the open files.
