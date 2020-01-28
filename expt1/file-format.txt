@@ -1,0 +1,86 @@
+1   'ATOM'
+2   'ATOM'
+3   'ATOM'
+4   'ATOM'
+
+5   
+6   
+
+7   Atom-serial-number
+8   Atom-serial-number
+9   Atom-serial-number
+10  Atom-serial-number
+11  Atom-serial-number
+
+12  
+
+13  Atom-Name
+14  Atom-Name
+15  Atom-Name
+16  Atom-Name
+
+17  Alternate-location-indicator
+
+18  Residue-Name
+19  Residue-Name
+20  Residue-Name
+
+21  
+
+22  Chain-identifier
+
+23  Residue-sequence-number
+24  Residue-sequence-number
+25  Residue-sequence-number
+26  Residue-sequence-number
+
+27  Code-for-insertion-of-residues
+
+28    
+29    
+30    
+
+31  X-orthogonal-coordinate
+32  X-orthogonal-coordinate
+33  X-orthogonal-coordinate
+34  X-orthogonal-coordinate
+35  X-orthogonal-coordinate
+36  X-orthogonal-coordinate
+37  X-orthogonal-coordinate
+38  X-orthogonal-coordinate
+
+39  y-orthogonal-coordinate
+40  y-orthogonal-coordinate
+41  y-orthogonal-coordinate
+42  y-orthogonal-coordinate
+43  y-orthogonal-coordinate
+44  y-orthogonal-coordinate
+45  y-orthogonal-coordinate
+46  y-orthogonal-coordinate
+
+47  z-orthogonal-coordinate
+48  z-orthogonal-coordinate
+49  z-orthogonal-coordinate
+50  z-orthogonal-coordinate
+51  z-orthogonal-coordinate
+52  z-orthogonal-coordinate
+53  z-orthogonal-coordinate
+54  z-orthogonal-coordinate
+
+55  Occupancy
+56  Occupancy
+57  Occupancy
+58  Occupancy
+59  Occupancy
+60  Occupancy
+
+61  Temperature-factor
+62  Temperature-factor
+63  Temperature-factor
+64  Temperature-factor
+65  Temperature-factor
+66  Temperature-factor
+67  
+68  
+69  
+70  
