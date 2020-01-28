@@ -1,0 +1,45 @@
+Problem Statement:
+Detect the interacting atoms between the protein chain "A" and RNA chain "R" by calculating the distance between protein and RNA atoms.
+
+Use Eucledian distance.
+
+Final output in pdb format.
+
+Protein Chains: A, B
+RNA Chains: R, S
+
+
+Start at 727
+R -- 1603
+S -- 3932
+A -- 7879
+B -- 11826
+
+4.5 angstrom
+
+PSEUDO:
+Identify if Protein (chain A) or RNA (chain R)
+for i <- 0:
+	if "ATOM":
+		if chain id == PROT:
+			Save details in var_set_1
+			for j <- 0:
+				if chain id == RNA:
+					compare distances;
+					if distancence < 4.5 Angstrom:
+						Add to output file
+					else
+						break;
+
+
+	// RNA Output
+	atom_name[j]
+	atom_no[j]
+	res_name[j]
+	res_no[j]
+
+	// DNA Output
+	atom_name[i]
+	atom_no[i]
+	res_name[i]
+	res_no[i]
