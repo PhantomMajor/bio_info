@@ -1,0 +1,5 @@
+Find the highest and lowest fluctuating residue in main chain of 1oj6
+
+4 Chains - A, B, C, D
+
+Something to do with Temperature factor (col 61-66) in ATOM
